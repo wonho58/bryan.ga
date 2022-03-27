@@ -3,7 +3,7 @@ name: 'Posts by Ga'
 description: 'Writing and Sharing'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: '/'
+baseurl: ''
 disqus: 'pbga'
 email: 'bryan7.ga@gmail.com'
 #mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
@@ -20,20 +20,20 @@ plugins:
   
 authors:
     bryan:
-      name: Bryan Ga
+      name: 'Bryan Ga'
       site: https://bryan.weetizen.com
       avatar: assets/images/bryan_ga.jpg
       bio: "Hi, I am Bryan, the author of PBG!"
       email: bryan7.ga@gmail.com
-      #twitter: https://twitter.com/
+      twitter: https://twitter.com/
 
     min:
-      name:           Minseo Ga
-      site:           https://blog.naver.com/belfil
-      avatar:         assets/images/minseo_ga.jpg
-      bio:            "Hi, I am Min, the author of PBG!"
-      email:          test@test.com
-      #twitter:        https://twitter.com/
+      name: 'Minseo Ga'
+      site: https://blog.naver.com/belfil
+      avatar: assets/images/minseo_ga.jpg
+      bio: "Hi, I am Min, the author of PBG!"
+      email: test@test.com
+      twitter: https://twitter.com/
  
 # Defaults
 defaults:
