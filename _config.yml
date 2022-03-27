@@ -22,18 +22,18 @@ authors:
     bryan:
       name: Bryan Ga
       site: https://bryan.weetizen.com
-      avatar: /assets/images/avatar1.jpg
-      bio: "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
+      avatar: /assets/images/bryan_ga.jpg
+      bio: "Hi, I am Bryan, the author of PBG!"
       email: bryan7.ga@gmail.com
-      #twitter: https://twitter.com/wowthemesnet
+      #twitter: https://twitter.com/
 
     min:
       name:           Minseo Ga
       site:           https://blog.naver.com/belfil
-      avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
+      avatar:         /assets/images/minseo_ga.jpg
+      bio:            "Hi, I am Min, the author of PBG!"
       email:          test@test.com
-      #twitter:        https://twitter.com/wowthemesnet
+      #twitter:        https://twitter.com/
  
 # Defaults
 defaults:
@@ -43,8 +43,8 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sal
-      avatar: /assets/images/avatar1.jpg
+      author: Bryan
+      avatar: /assets/images/bryan_ga.jpg
       
   # all pages
   - scope:
