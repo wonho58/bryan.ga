@@ -43,7 +43,7 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: Bryan
+      author: bryan
       avatar: assets/images/bryan_ga.jpg
       
   # all pages
