@@ -11,6 +11,8 @@ email: 'bryan7.ga@gmail.com'
 include: ["_pages"]
 permalink: /:title/
 
+categories: ["Book","Car&Drift","LifeStyle"]
+
 # Plugins
 plugins: 
   - jekyll-feed
