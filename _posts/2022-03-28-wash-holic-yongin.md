@@ -3,7 +3,7 @@ layout: post
 title:  "워시홀릭 EV파크"
 author: bryan
 categories: [ Car&Drift ]
-image: assets/images/202203/washholic-01.jpg
+image: https://i.imgur.com/2FOdBJ9.jpg
 tags: []
 ---
 
