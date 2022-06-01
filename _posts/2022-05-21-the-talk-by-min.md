@@ -7,8 +7,6 @@ image: https://imgur.com/a/VBgMxHS
 tags: [sticky]
 ---
 
-The Talk
-
 Appealing mid-night breeze, I stood there waiting for nothing. 
 The Pitch-dark river glittered with illusions of night view. 
 I sat down on the bridge, serene scent permeating around me; on a sparsely populated road. 
