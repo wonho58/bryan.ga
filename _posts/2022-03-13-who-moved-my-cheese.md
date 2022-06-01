@@ -4,7 +4,7 @@ title:  "Who moved my cheese? by. Dr Sphencer Johnson"
 author: min
 categories: [ Book ]
 image: assets/images/who-moved-my-cheese.jpg
-tags: [sticky]
+tags: []
 ---
 
 Life repetitiously confronts changes throughout decades. 
