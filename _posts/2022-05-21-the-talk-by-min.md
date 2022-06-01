@@ -7,8 +7,6 @@ image: https://imgur.com/a/VBgMxHS
 tags: [sticky]
 ---
 
-## The Talk
-
 The Talk
 
 Appealing mid-night breeze, I stood there waiting for nothing. 
